@@ -1,0 +1,9 @@
+/* Write your CSS code here */
+.list-items {
+  display: flex;
+  list-style-type: none;
+}
+
+.nav-links {
+  margin: 10px;
+}
